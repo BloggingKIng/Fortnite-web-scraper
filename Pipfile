@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 selenium = "*"
 notebook = "*"
+requests = "*"
+bs4 = "*"
+selenium-stealth = "*"
 
 [dev-packages]
 
